@@ -17,7 +17,7 @@ To run the cohort analysis code, you need the following dependencies:
 - Pandas (version x.x)
 - Numpy (version x.x)
 - Matplotlib (version x.x)
-- Jupyter Notebook (version x.x) [optional, if using Jupyter notebook]
+- Google Colab (version x.x) [optional, if using Google Colab]
 # Getting started
 1. Download the retail dataset from kaggle and place it in the `/data` folder.
 
