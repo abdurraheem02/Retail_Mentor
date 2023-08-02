@@ -19,7 +19,7 @@ To run the cohort analysis code, you need the following dependencies:
 - Matplotlib (version x.x)
 - Jupyter Notebook (version x.x) [optional, if using Jupyter notebook]
 # Getting started
-1. Download the retail dataset from [mention the URL or data source] and place it in the `/data` folder.
+1. Download the retail dataset from kaggle and place it in the `/data` folder.
 
 2. Open the google colab (or your preferred Python environment) and run the `retail_metor.ipynb` script to execute the cohort analysis.
 
@@ -35,7 +35,7 @@ retail-mentor-analysis/
 └───data/
 │   │   retail_dataset.xlsx
 └───results/
-│   │   cohort_analysis_report.pdf
+│   │  retail_mentor_report.pdf
 │   └───plots/
 │       │   cohort_plots.png
 │       │   retention_curve.png
